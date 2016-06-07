@@ -1,0 +1,118 @@
+<script type='text/javascript'>
+
+/**
+ * Created by 23rd and Walnut
+ * www.23andwalnut.com
+ * User: Saleem El-Amin
+ * Date: 6/8/11
+ * Time: 9:39 AM
+ */
+
+var myPlaylist = [
+
+    
+
+{
+
+
+        mp3:&#39;  https://archive.org/download/qurran-morattal/001.mp3 &#39;,
+        oga:&#39;   &#39;,
+        title:&#39;  «·›« Õ… ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39; https://archive.org/download/qurran-morattal/001.mp3 &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39; 00:52   &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+		
+}
+,
+{
+
+        mp3:&#39;  https://archive.org/download/qurran-morattal/002.mp3 &#39;,
+        oga:&#39;    &#39;,
+        title:&#39;  «·»ﬁ—… ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39; https://archive.org/download/qurran-morattal/002.mp3 &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39;    &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+        
+}
+
+,
+{
+
+        mp3:&#39;   &#39;,
+        oga:&#39;    &#39;,
+        title:&#39;   ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39;  &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39;    &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+        
+}
+,
+{
+
+        mp3:&#39;   &#39;,
+        oga:&#39;    &#39;,
+        title:&#39;   ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39;  &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39;    &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+        
+}
+,
+{
+
+        mp3:&#39;   &#39;,
+        oga:&#39;    &#39;,
+        title:&#39;   ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39;  &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39;    &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+        
+}
+,
+{
+
+        mp3:&#39;   &#39;,
+        oga:&#39;    &#39;,
+        title:&#39;   ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39;  &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39;    &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+        
+}
+,
+{
+
+        mp3:&#39;   &#39;,
+        oga:&#39;    &#39;,
+        title:&#39;   ”Ê—…   &#39;,
+        artist:&#39;„Õ„œ ’œÌﬁ «·„‰‘«ÊÏ&#39;,
+        rating:4,
+        buy:&#39;  &#39;,
+        price:&#39;&#9660;&#39;,
+        duration:&#39;    &#39;,
+        cover:&#39;https://ia800305.us.archive.org/17/items/mathtea6_gmail_7/%D8%B4%D9%83%D9%84%20%D8%AC%D8%AF%D9%8A%D8%AF7.png&#39;
+        
+}
+
+
+];
+
+</script>

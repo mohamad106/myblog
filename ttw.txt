@@ -1,0 +1,15 @@
+ <script type='text/javascript'>
+        $(document).ready(function(){
+            var description = &#39;&#39;;
+
+            $(&#39;body&#39;).ttwMusicPlayer(myPlaylist, {
+                autoPlay:false, 
+                description:description,
+                jPlayer:{
+                    swfPath:&#39;../plugin/jquery-jplayer&#39; //You need to override the default swf path any time the directory structure changes
+                }
+            });
+        });
+
+
+</script>
